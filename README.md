@@ -73,6 +73,17 @@ This repository contains a list of project ideas for Go developers. These ideas 
 
 These projects cover a wide range of topics and will help you gain a deeper understanding of Go. Feel free to choose any project that interests you and start building!
 
+11. **Building a Go Command Line Tool**
+
+Create `hr` Package within the `$GOPATH`
+
+Create `main` Package with `User` Struct to Hold Information Parsed from `/etc/passwd`
+
+Parse Information from `/etc/passwd` into a Slice of `User` Structs
+
+Define and Parse the `path` and `format` Flags
+
+Write User Information as CSV or JSON Information Either to a File or stdout
 ## Contributing
 
 If you have any project ideas that you would like to add to this list, feel free to submit a pull request. Please ensure that your project idea follows the same format as the existing ones.
